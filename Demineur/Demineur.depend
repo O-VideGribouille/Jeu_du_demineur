@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606053410 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\demineur\demineur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
